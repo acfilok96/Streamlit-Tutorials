@@ -3,7 +3,7 @@
 ![demo](https://github.com/acfilok96/Streamlit-Tutorials/blob/main/Folder%201/demo.png)
 
 
-Comlilation Process:
+Compilation process:
 
 1. Open terminal
 2. Set up the directory
