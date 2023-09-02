@@ -1,7 +1,7 @@
 # Streamlit-Tutorials
 
 
-## Screenshot 1
+## Screenshot 1:
 ![demo](https://github.com/acfilok96/Streamlit-Tutorials/assets/88615645/6c7c9416-d944-480f-b2d4-d0a7e5ec8594)
 
 
@@ -11,5 +11,5 @@ Compilation process:
 2. Set up the directory
 3. run the syntax: streamlit run <filename.py>
 
-## Screenshot 2
+## Screenshot 2:
 ![Screenshot (982)](https://github.com/acfilok96/Streamlit-Tutorials/assets/88615645/427f7692-30ac-4968-94e3-250bc8e3099b)
