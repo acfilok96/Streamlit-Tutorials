@@ -2,7 +2,7 @@
 
 
 ## Screenshot 1
-![demo](https://github.com/acfilok96/Streamlit-Tutorials/blob/main/Folder%201/demo.png)
+![demo](https://github.com/acfilok96/Streamlit-Tutorials/assets/88615645/6c7c9416-d944-480f-b2d4-d0a7e5ec8594)
 
 
 Compilation process:
