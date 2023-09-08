@@ -13,12 +13,10 @@ Compilation process:
 
 ## Screenshot 2:
 ![Screenshot (982)](https://github.com/acfilok96/Streamlit-Tutorials/assets/88615645/427f7692-30ac-4968-94e3-250bc8e3099b)
-
 or
 ![src2](https://github.com/acfilok96/Streamlit-Tutorials/assets/88615645/572e5321-8ecc-4150-9019-dec8c1e851a0)
 
 
-
-For image file, how it's look like,
 ## Screenshot 3:
+For image file, how it's look like,
 ![src1](https://github.com/acfilok96/Streamlit-Tutorials/assets/88615645/6716fb77-a491-4922-a091-36384922fc02)
